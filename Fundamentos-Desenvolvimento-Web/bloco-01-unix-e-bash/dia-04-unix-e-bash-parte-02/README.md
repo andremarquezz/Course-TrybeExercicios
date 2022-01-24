@@ -5,5 +5,3 @@
 * A estrutura de diretórios do Unix é organizada no formato de uma árvore invertida, de forma hierárquica, iniciando pelo root (raiz);
 * Tudo no Unix é um arquivo ou um processo;
 * O terminal é seu principal aliado para ter produtividade em ambiente Unix.
-
-### Exercícios feitos:
