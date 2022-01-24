@@ -1,10 +1,8 @@
 # Trybe - Conteúdo
 
-_Minha evolução como Desenvolvedora Web encontra-se aqui [brenndha-cabral.github.io](https://brenndha-cabral.github.io/)_
+Neste repositório constam todas as atividades de aprendizagem desenvolvidas por _[André Marquez](https://www.linkedin.com/in/andremarqquez/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
-Neste repositório constam todas as atividades de aprendizagem desenvolvidas por _[Brenndha Cabral](https://www.linkedin.com/in/brenndhacabral/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
-
-_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde uma das possibilidades de pagamento é quando a pessoa conseguir um emprego na área de tecnologia."_
+_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
 
 O programa conta com mais de 1.500 horas de aulas online, abordando Introdução ao Desenvolvimento de Software, Front-End, Back-End, Ciência da Computação, Engenharia de Software, Metodologias Ágeis e Habilidades Comportamentais.
 
@@ -17,63 +15,63 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 1-3: _Unix & Bash - Part 1_
 - [X] 1-4: _Unix & Bash - Part 2_
 
-##### [Bloco 2: Git, GitHub e Internet](https://github.com/Brenndha/trybe-exercicios/tree/master/01-fundamentos/bloco-02-git-github-internet)
+##### [Bloco 2: Git, GitHub e Internet](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-02-git-github-internet)
 
 - [X] 2-1: _Git & GitHub - O que é e para que serve?_
 - [X] 2-2: _Git & GitHub - Entendendo os comandos_
-- [X] 2-3: _Internet - Entendendo como ela funciona_
+- [ ] 2-3: _Internet - Entendendo como ela funciona_
 
-##### [Bloco 3: Introdução à HTML & CSS](https://github.com/brenndha-cabral/trybe-exercicios/tree/main/01-fundamentos/bloco-03-introducao-a-html-e-css)
+##### [Bloco 3: Introdução à HTML & CSS]()_
 
-- [X] 3-1: _Introdução - HTML & CSS_
-- [X] 3-1: _HTML & CSS - Estruturas de página_
-- [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [X] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [X] 3-4: _HTML Semântico_
-- [X] 3-5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-018-b-project-lessons-learned/pull/56)_
+- [ ] 3-1: _Introdução - HTML & CSS_
+- [ ] 3-1: _HTML & CSS - Estruturas de página_
+- [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
+- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [ ] 3-4: _HTML Semântico_
+- [ ] 3-5: _[Projeto - Lessons Learned]()_
 
-##### [Bloco 4: Introdução à JavaScript e Lógica de Programação](https://github.com/brenndha-cabral/trybe-exercicios/tree/main/01-fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao)
+##### [Bloco 4: Introdução à JavaScript e Lógica de Programação]()_
 
-- [X] 4-1: _Introdução - JavaScript_
-- [X] 4-1: _JavaScript - Primeiros passos_
-- [X] 4-2: _JavaScript - Array e loop For_
-- [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [X] 4-4: _JavaScript - Objetos e Funções_
-- [X] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-018-b-project-playground-functions/pull/129)_
+- [ ] 4-1: _Introdução - JavaScript_
+- [ ] 4-1: _JavaScript - Primeiros passos_
+- [ ] 4-2: _JavaScript - Array e loop For_
+- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [ ] 4-4: _JavaScript - Objetos e Funções_
+- [ ] 4-5: _[Projeto - Playground Functions]()_
 
 ##### Bloco 5: JavaScrip: DOM, Eventos e Web Storage
 
-- [X] 5-1: _JavaScript - DOM e seletores_
-- [X] 5-2: _JavaScript - Trabalhando com elementos_
-- [X] 5-3: _JavaScript - Eventos_
-- [X] 5-4: _JavaScript - Web Storage_
-- [X] 5-5: _Fundamentos - JavaScript - Projetos_
-- [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-018-b-project-pixels-art/pull/125)_
-- [X] 5-6: _[Projeto - Lista de Tarefas]()_
-- [X] 5-7: _[Projeto Bônus - Meme Generator](https://github.com/tryber/sd-018-b-project-meme-generator/pull/28)_
-- [X] 5-7: _[Projeto Bônus - Adivinhe a Cor](https://github.com/tryber/sd-018-b-project-color-guess/pull/39)_
-- [X] 5-7: _[Projeto Bônus - Carta Misteriosa](https://github.com/tryber/sd-018-b-project-mistery-letter/pull/42)_
+- [ ] 5-1: _JavaScript - DOM e seletores_
+- [ ] 5-2: _JavaScript - Trabalhando com elementos_
+- [ ] 5-3: _JavaScript - Eventos_
+- [ ] 5-4: _JavaScript - Web Storage_
+- [ ] 5-5: _Fundamentos - JavaScript - Projetos_
+- [ ] 5-5: _[Projeto - Arte com Pixels]()_
+- [ ] 5-6: _[Projeto - Lista de Tarefas]()_
+- [ ] 5-7: _[Projeto Bônus - Meme Generator]()_
+- [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
+- [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
 
 ##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
 
-- [X] 6-1: _HTML & CSS - Forms_
-- [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [X] 6-3: _CSS Flexbox - Part 1_
-- [X] 6-4: _CSS Flexbox - Part 2_
-- [X] 6-5: _CSS Responsivo - Mobile First_
-- [X] 6-6: _[Projeto - Trybewarts](https://github.com/tryber/sd-018-b-project-trybewarts/pull/97)_
+- [ ] 6-1: _HTML & CSS - Forms_
+- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [ ] 6-3: _CSS Flexbox - Part 1_
+- [ ] 6-4: _CSS Flexbox - Part 2_
+- [ ] 6-5: _CSS Responsivo - Mobile First_
+- [ ] 6-6: _[Projeto - Trybewarts]()_
 
 ##### Bloco 7: Introdução à JavaScript ES6 & Testes Unitários
 
-- [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [X] 7-2: _JavaScript ES6 - Objects_
-- [X] 7-3: _Primeiros passos em Jest_
-- [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-018-b-project-js-unit-tests/pull/71)_
+- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [ ] 7-2: _JavaScript ES6 - Objects_
+- [ ] 7-3: _Primeiros passos em Jest_
+- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 
-- [X] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_
-- [X] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [ ] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_
+- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [ ] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
@@ -82,7 +80,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 ##### Bloco 9: JavaScript e Testes Assíncronos
 
 - [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Assí­ncrono - Fetch API e async/await_
+- [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [ ] 9-3: _Jest - Testes Assíncronos_
 - [ ] 9-4: _[Projeto - Carrinho de Compras]()_
 
@@ -152,7 +150,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [ ] 19-1: _Introdução - Bancos de dados relacionais_
 - [ ] 19-1: _Banco de dados SQL_
 - [ ] 19-2: _Encontrando dados em um banco de dados_
-- [ ] 19-3: _Filtrando dados de forma especí­fica_
+- [ ] 19-3: _Filtrando dados de forma específica_
 - [ ] 19-4: _Manipulando tabelas_
 - [ ] 19-5: _[Projeto - All For One]()_
 
