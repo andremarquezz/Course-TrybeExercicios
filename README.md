@@ -8,7 +8,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### [Bloco 1: Introdução - Unix & Bash](https://github.com/Brenndha/trybe-exercicios/tree/master/01-fundamentos/bloco-01-unix-e-bash)
+##### [Bloco 1: Introdução - Unix & Bash](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-01-unix-e-bash)
 
 - [X] 1-3: _Fundamentos do Desenvolvimento Web_
 - [X] 1-3: _Introdução - Unix & Shell_
