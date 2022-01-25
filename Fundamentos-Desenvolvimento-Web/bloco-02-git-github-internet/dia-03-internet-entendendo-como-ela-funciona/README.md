@@ -10,13 +10,14 @@
 
 #### HTTP Headers
 
-O protocolo HTTP é composto por Header e Body. O Header contém _metadata_ (dados sobre dados) que incluem o tipo de requisição (GET, POST, PUT, DELETE), o caminho URL, o endereço IP dentre outros. Para a página que estamos usando como exemplo, na sessão _Response Headers_ os mais importantes são:
+O protocolo HTTP é composto por Header e Body. O Header contém _metadata_ (dados sobre dados) que incluem o tipo de requisição (GET, POST, PUT, DELETE), o caminho URL, o endereço IP dentre outros.
+na sessão _Response Headers_ os mais importantes são:
 
-* Content-Type: text/plain Especifica como os dados são representados. Nesse exemplo, temos o texto sendo enviado como resposta no formato HTML.
+* Content-Type: text/plain Especifica como os dados são representados.
 
 * Server: GitHub.com Servidor Web para onde as requisições estão sendo feitas.
 
-* Status: 200 OK Forma padrão para o servidor comunicar ao cliente sobre o resultado da requisição. O código 200 significa que o servidor encontrou o recurso e está enviando o resultado da requisição.
+* Status: 200 OK Forma padrão para o servidor comunicar ao cliente sobre o resultado da requisição. 
 
 * Host: api.github.com Host da aplicação
 
