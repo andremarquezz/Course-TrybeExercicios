@@ -48,7 +48,7 @@ Os métodos HTTP são os verbos que dizem ao servidor o que fazer com os dados n
 ### Exercícios feitos:
 
 * [Quiz - Parte I](https://github.com/andremarquezz/trybe-exercicios/blob/main/Fundamentos-Desenvolvimento-Web/bloco-02-git-github-internet/dia-03-internet-entendendo-como-ela-funciona/Trybe-Quiz-Internet-I.pdf)
-* [Quiz - Parte II]()
+* [Quiz - Parte II](https://github.com/andremarquezz/trybe-exercicios/blob/main/Fundamentos-Desenvolvimento-Web/bloco-02-git-github-internet/dia-03-internet-entendendo-como-ela-funciona/Trybe-Quiz-Internet-II.pdf)
 * [Quiz - Parte III]()
 
 
