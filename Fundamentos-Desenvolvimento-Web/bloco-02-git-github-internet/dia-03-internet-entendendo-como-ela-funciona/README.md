@@ -10,7 +10,7 @@
 
 #### HTTP Headers
 
-Como vimos, o protocolo HTTP é composto por Header e Body. O Header contém _metadata_ (dados sobre dados) que incluem o tipo de requisição (GET, POST, PUT, DELETE), o caminho URL, o endereço IP dentre outros. Para a página que estamos usando como exemplo, na sessão _Response Headers_ os mais importantes são:
+O protocolo HTTP é composto por Header e Body. O Header contém _metadata_ (dados sobre dados) que incluem o tipo de requisição (GET, POST, PUT, DELETE), o caminho URL, o endereço IP dentre outros. Para a página que estamos usando como exemplo, na sessão _Response Headers_ os mais importantes são:
 
 * Content-Type: text/plain Especifica como os dados são representados. Nesse exemplo, temos o texto sendo enviado como resposta no formato HTML.
 
@@ -22,11 +22,9 @@ Como vimos, o protocolo HTTP é composto por Header e Body. O Header contém _me
 
 * cookie: _octo=GH1.1.358825508.1593780201; _ga=GA1.2.60245099.1593780202; logged_in=yes; dotcom_user=isabellavjs; tz=America%2FSao_Paulo
 
-Novamente, você não precisa saber todos os pares de nome-valor. Saber onde encontrá-los no seu navegador é o suficiente para você começar a explorá-los conforme a sua necessidade.
-
 #### HTTP Body
 
-O servidor armazena então os dados (metadados) mais importantes para estabelecer uma comunicação com o cliente. O _Body_ refere-se ao corpo da mensagem que está sendo transmitida. Você pode acessá-lo clicando em _Response_ na barra superior. Para a requisição que fizemos, acessar a página [GitHub](https://github.com/), o _body_ contém o HTML para a página que estamos querendo acessar. Para praticar, experimente navegar nos outros arquivos que foram retornados para o navegador após a requisição! Você pode acessá-los no menu disponível na barra lateral esquerda.
+O servidor armazena então os dados (metadados) mais importantes para estabelecer uma comunicação com o cliente. O _Body_ refere-se ao corpo da mensagem que está sendo transmitida.
 
 #### Métodos HTTP
 
