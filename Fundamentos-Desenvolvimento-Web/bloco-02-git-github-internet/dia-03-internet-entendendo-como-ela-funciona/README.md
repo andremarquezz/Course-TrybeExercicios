@@ -14,16 +14,6 @@
 
 #### Métodos HTTP
 
-Os métodos HTTP são os verbos que dizem ao servidor o que fazer com os dados no URL. Como vimos, o endereço URL identifica recursos específicos. Quando o cliente utiliza o endereço URL combinado a um verbo HTTP, o servidor saberá qual será a ação necessária para cada recurso. Os exemplos mais comuns são:
-
-* GET
-
-* POST
-
-* PUT/PATCH
-
-* DELETE
-
 #### REST - Representational State Transfer 
 
 #### CURL - Client URL
