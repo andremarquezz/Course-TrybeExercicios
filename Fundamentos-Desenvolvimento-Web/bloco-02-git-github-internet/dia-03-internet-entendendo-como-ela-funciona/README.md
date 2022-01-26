@@ -10,22 +10,7 @@
 
 #### HTTP Headers
 
-O protocolo HTTP é composto por Header e Body. O Header contém _metadata_ (dados sobre dados) que incluem o tipo de requisição (GET, POST, PUT, DELETE), o caminho URL, o endereço IP dentre outros.
-na sessão _Response Headers_ os mais importantes são:
-
-* Content-Type: text/plain Especifica como os dados são representados.
-
-* Server: GitHub.com Servidor Web para onde as requisições estão sendo feitas.
-
-* Status: 200 OK Forma padrão para o servidor comunicar ao cliente sobre o resultado da requisição. 
-
-* Host: api.github.com Host da aplicação
-
-* cookie: _octo=GH1.1.358825508.1593780201; _ga=GA1.2.60245099.1593780202; logged_in=yes; dotcom_user=isabellavjs; tz=America%2FSao_Paulo
-
 #### HTTP Body
-
-O servidor armazena então os dados (metadados) mais importantes para estabelecer uma comunicação com o cliente. O _Body_ refere-se ao corpo da mensagem que está sendo transmitida.
 
 #### Métodos HTTP
 
@@ -42,7 +27,6 @@ Os métodos HTTP são os verbos que dizem ao servidor o que fazer com os dados n
 #### REST - Representational State Transfer 
 
 #### CURL - Client URL
-
 
 ### Exercícios feitos:
 
