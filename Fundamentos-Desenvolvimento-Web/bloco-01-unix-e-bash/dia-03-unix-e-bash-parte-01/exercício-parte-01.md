@@ -23,7 +23,7 @@
 - [X] Apague o diretório backup;
 
 - [X] Limpe o terminal;
-- 
+ 
 - [X] arquivo de texto com o conteúdo do portal trybe, chamado skills.txt:
 
 - [X] Mostre na tela as 5 primeiras skills do arquivo skills.txt;
