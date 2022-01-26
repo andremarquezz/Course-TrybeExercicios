@@ -8,6 +8,6 @@
 
 ### Exercicios Feitos:
 
-*[Parte I - Comandos de Input e Output](https://github.com/andremarquezz/trybe-exercicios/blob/main/Fundamentos-Desenvolvimento-Web/bloco-01-unix-e-bash/dia-04-unix-e-bash-parte-02/exerc%C3%ADcio-parte-01.md)
-*[Parte II - Permissões](https://github.com/andremarquezz/trybe-exercicios/blob/main/Fundamentos-Desenvolvimento-Web/bloco-01-unix-e-bash/dia-04-unix-e-bash-parte-02/exerc%C3%ADcio-parte-02.md)
-*[Parte III - Processos & Jobs](https://github.com/andremarquezz/trybe-exercicios/blob/main/Fundamentos-Desenvolvimento-Web/bloco-01-unix-e-bash/dia-04-unix-e-bash-parte-02/exerc%C3%ADcio-parte-03.md)
+* [Parte I - Comandos de Input e Output](https://github.com/andremarquezz/trybe-exercicios/blob/main/Fundamentos-Desenvolvimento-Web/bloco-01-unix-e-bash/dia-04-unix-e-bash-parte-02/exerc%C3%ADcio-parte-01.md)
+* [Parte II - Permissões](https://github.com/andremarquezz/trybe-exercicios/blob/main/Fundamentos-Desenvolvimento-Web/bloco-01-unix-e-bash/dia-04-unix-e-bash-parte-02/exerc%C3%ADcio-parte-02.md)
+* [Parte III - Processos & Jobs](https://github.com/andremarquezz/trybe-exercicios/blob/main/Fundamentos-Desenvolvimento-Web/bloco-01-unix-e-bash/dia-04-unix-e-bash-parte-02/exerc%C3%ADcio-parte-03.md)
