@@ -13,7 +13,7 @@
 - [X] Adicione uma imagem que venha de uma URL externa.
 - [X] Adicione uma imagem que está no seu computador, local.
 
-####HTML - Links externos e internos
+#### HTML - Links externos e internos
 - [X] Crie um parágrafo para cada pessoa da sua lista.
 - [X] Crie um link entre a sua lista e os parágrafos de pessoas.
 - [X] Crie um link para a página do Google.
