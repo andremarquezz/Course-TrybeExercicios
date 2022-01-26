@@ -1,47 +1,34 @@
 ## Parte I - Criação de arquivos e diretórios
 
-_Dica : Para criação de arquivos vazios você pode utilizar o comando `touch` nome-do-arquivo.extensao._
+- [X] Crie um arquivo de texto com o nome trybe.txt;
 
-1. Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado unix_tests e navegue até ele;
+- [X] Crie uma cópia do arquivo trybe.txt com nome trybe_backup.txt;
 
-2. Crie um arquivo de texto com o nome trybe.txt;
+- [X] Renomeie o arquivo trybe.txt;
 
-3. Crie uma cópia do arquivo trybe.txt com nome trybe_backup.txt;
+- [X] Dentro de unix_tests, crie um novo diretório chamado backup;
 
-4. Renomeie o arquivo trybe.txt;
+- [X] Mova o arquivo trybe_backup.txt para o diretório backup;
 
-5. Dentro de unix_tests, crie um novo diretório chamado backup;
+- [X] Dentro de unix_tests, crie um novo diretório chamado backup2;
 
-6. Mova o arquivo trybe_backup.txt para o diretório backup;
+- [X] Mova o arquivo trybe_backup.txt da pasta backup para a pasta backup2;
 
-7. Dentro de unix_tests, crie um novo diretório chamado backup2;
+- [X] Apague a pasta backup;
 
-8. Mova o arquivo trybe_backup.txt da pasta backup para a pasta backup2;
+- [X] Renomeie a pasta backup2 para backup;
 
-9. Apague a pasta backup;
+- [X] Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele;
 
-10. Renomeie a pasta backup2 para backup;
+- [X] Apague o diretório backup;
 
-11. Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele;
+- [X] Limpe o terminal;
+- 
+- [X] arquivo de texto com o conteúdo do portal trybe, chamado skills.txt:
 
-12. Apague o diretório backup;
+- [X] Mostre na tela as 5 primeiras skills do arquivo skills.txt;
 
-13. Limpe o terminal;
+- [X] Mostre na tela as 4 últimas skills do arquivo skills.txt;
 
-Para os exercícios 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
-
-* Internet
-* Unix
-* Bash
-* HTML
-* CSS
-* JavaScript
-* React
-* SQL
-
-14. Mostre na tela as 5 primeiras skills do arquivo skills.txt;
-
-15. Mostre na tela as 4 últimas skills do arquivo skills.txt;
-
-16. Apague todos os arquivos que terminem em .txt.
+- [X] Apague todos os arquivos que terminem em .txt.
 
