@@ -9,6 +9,7 @@
 
 ### Exercícios feitos:
 
-* [Exercício de fixação]()
-
-* Portfólio Web, [aqui]()
+HTML - Primeiras tags
+- [X] Crie uma lista das pessoas que você já fez amizade na Trybe.
+- [X] Adicione uma imagem que venha de uma URL externa.
+- [X] Adicione uma imagem que está no seu computador, local.
