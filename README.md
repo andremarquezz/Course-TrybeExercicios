@@ -21,7 +21,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 2-2: _Git & GitHub - Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_
 
-##### [Bloco 3: Introdução à HTML & CSS]()_
+##### [Bloco 3: Introdução à HTML & CSS](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-3-introducao-a-html-e-css)_
 
 - [X] 3-1: _Introdução - HTML & CSS_
 - [X] 3-1: _HTML & CSS - Estruturas de página_
