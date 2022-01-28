@@ -1,0 +1,29 @@
+<style>
+
+<h2>{  font-size: 65px}
+
+h1{
+    color: orange;
+    font-family: sans-serif;
+};
+p{ font-family: 
+  monospace, sans-serif;  
+  font-weight: 600;
+}
+body{
+  background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+  line-height: 2em;
+  text-align: center;
+}
+#amarelo{ 
+  color: yellow;
+  font-style: italic;
+}
+#Vermelho{
+  color: red;
+}
+#Marrom{
+  color: brown;
+}
+</style>
