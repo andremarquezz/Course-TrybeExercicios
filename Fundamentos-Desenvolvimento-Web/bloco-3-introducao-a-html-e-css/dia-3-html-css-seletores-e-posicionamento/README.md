@@ -7,6 +7,8 @@
 * Combinar e agrupar seletores de CSS para criar regras bem definidas.
 
 ### Exercícios para Fixar:
+* [Box Model - Modelo de caixas no CSS](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-3-introducao-a-html-e-css/dia-3-html-css-seletores-e-posicionamento/Box%20Model%20-%20Modelo%20de%20caixas%20no%20CSS)
+* [Posicionamento de Elementos](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-3-introducao-a-html-e-css/dia-3-html-css-seletores-e-posicionamento/Posicionamento%20de%20Elementos)
 
 - [X] - Posicione o Mário acima do Goomba.
 - [X] - Posicione a tag p para que fique dentro do balão de fala.
