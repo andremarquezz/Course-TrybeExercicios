@@ -10,9 +10,7 @@
 * [Box Model - Modelo de caixas no CSS](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-3-introducao-a-html-e-css/dia-3-html-css-seletores-e-posicionamento/Box%20Model%20-%20Modelo%20de%20caixas%20no%20CSS)
 * [Posicionamento de Elementos](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-3-introducao-a-html-e-css/dia-3-html-css-seletores-e-posicionamento/Posicionamento%20de%20Elementos)
 
-- [X] - Posicione o Mário acima do Goomba.
-- [X] - Posicione a tag p para que fique dentro do balão de fala.
-- [X] - Posicione o balão para que se torne uma fala de Bowser.
+
 - [X] - Adicione uma lista ordenada dos 3 melhores sites que você conhece.
 - [X] - Crie um arquivo no mesmo diretório e nomeie-o de 'style.css'.
 - [X] - Nesse arquivo .css, adicione os estilos para que:
