@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+}
+
+li:hover{
+  background: rgb(47,7,15);
+background: radial-gradient(circle, rgba(47,7,15,1) 15%, rgba(62,13,111,1) 35%);
+}
+
+li:active{
+  color: white
+}
+
+li{
+  /* list-style-type: none; */
+}
