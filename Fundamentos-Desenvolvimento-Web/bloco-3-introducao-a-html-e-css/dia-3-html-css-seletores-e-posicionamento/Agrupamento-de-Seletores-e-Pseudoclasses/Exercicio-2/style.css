@@ -1,0 +1,25 @@
+div:hover{
+  background-color: blueviolet;
+}
+
+#corprimaria{
+  color: crimson;
+}
+#corsecundaria{
+  color: yellow;
+}
+
+#corcomplementar{
+  color: mediumturquoise;
+  font-size: larger;
+  font-style: italic;
+}
+  
+#corescura{
+  color: darkblue;
+}
+
+#corclara{
+  color: aqua;
+  font-style: italic;
+}
