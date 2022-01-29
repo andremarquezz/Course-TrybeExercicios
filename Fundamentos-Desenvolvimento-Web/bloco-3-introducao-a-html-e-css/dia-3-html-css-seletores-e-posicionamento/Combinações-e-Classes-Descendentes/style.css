@@ -1,0 +1,52 @@
+ol{
+  background-color: yellow;
+}
+li{
+  font-size: 20px;
+}
+li em{
+  font-weight: bold;
+}
+
+li.par{
+  color: green;
+}
+li.impar{
+  text-transform: uppercase;
+}
+
+h1,h3{
+  color: red;
+}
+
+h1,h3 em{
+  font-size: 40px;
+  border: black solid 1px;
+}
+
+.corinicio{
+  color: blue;
+}
+.java{
+  background-color: pink;
+}
+
+/* Exercicio Numero 5 */
+ul:hover{
+  font-weight: bold;
+}
+#hover1:hover{
+  background-color: orange;
+}
+#hover2:hover{
+  background-color: green;
+}
+#hover3:hover{
+    background-color: black;
+}
+#hover4:hover{
+  background-color: yellow;
+}
+#hover5:hover{
+  background-color: green;
+}
