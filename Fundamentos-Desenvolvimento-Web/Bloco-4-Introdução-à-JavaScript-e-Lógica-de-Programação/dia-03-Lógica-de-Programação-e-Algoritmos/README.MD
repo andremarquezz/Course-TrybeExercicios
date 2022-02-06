@@ -6,7 +6,7 @@
 
 # Exercícios:
 
-- [X] - O fatorial é a multiplicação de um número natural pelos seus antecessores, exceto o zero.
+- [X] - Crie um algoritmo que retorne o fatorial de 10.
 - [X] - Desenvolva um algoritmo que é capaz de inverter uma palavra. 
 - [X] - Escreva dois algoritmos: um que retorne a maior palavra deste array e outro que retorne a menor.
 - [X] - Escreva um algoritmo que retorne o maior número primo entre 0 e 50.
