@@ -24,4 +24,4 @@ for (let i = 0; i < array.length; i += 1) {
 }
 console.log(bigWord)
 
-// Exercicio 3
+// Exercicio 4
