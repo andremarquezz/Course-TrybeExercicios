@@ -58,8 +58,8 @@ let infa = {
   nota: 'Namorada do personagem principal nos quadrinhos do Pato Donald',
   recorrente: 'Sim',
 };
-for (let allIn in info && infa) {
-  console.log(info[allIn] && infa[allIn])
+for (let allIn in info) {
+  console.log(info[allIn] + ' e ' + infa[allIn])
 }
 
 // Exercicio 6
@@ -75,4 +75,17 @@ let leitor = {
   }, ],
 };
 
-console.log('O livro favorito de ' + leitor.nome + ' ' + leitor.sobrenome + ' se chama ' + leitor.livrosFavoritos.titulo)
+
+console.log('O livro favorito de ' + leitor.nome + ' ' + leitor.sobrenome + ' se chama ' + leitor.livrosFavoritos[0].titulo)
+
+// Exercicio 7
+let leitor = {
+  nome: 'Julia',
+  sobrenome: 'Pessoa',
+  idade: 21,
+  livrosFavoritos: [{
+    titulo: 'Harry Potter e o Prisioneiro de Azkaban',
+    autor: 'JK Rowling',
+    editora: 'Rocco',
+  }],
+};
