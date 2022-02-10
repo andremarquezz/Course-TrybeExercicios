@@ -39,7 +39,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 4-4: _JavaScript - Objetos e Funções_
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: JavaScrip: DOM, Eventos e Web Storage
+##### [Bloco 5: JavaScrip: DOM, Eventos e Web Storage](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/Bloco-5-DOM-Eventos-e-Web-Storage)
 
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
