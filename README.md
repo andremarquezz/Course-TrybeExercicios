@@ -37,14 +37,14 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e Funções_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [X] 4-5: _[Projeto - Playground Functions]()_
 
 ##### [Bloco 5: JavaScrip: DOM, Eventos e Web Storage](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/Bloco-5-DOM-Eventos-e-Web-Storage)
 
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
+- [X] 5-3: _JavaScript - Eventos_
+- [X] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _Fundamentos - JavaScript - Projetos_
 - [ ] 5-5: _[Projeto - Arte com Pixels]()_
 - [ ] 5-6: _[Projeto - Lista de Tarefas]()_
