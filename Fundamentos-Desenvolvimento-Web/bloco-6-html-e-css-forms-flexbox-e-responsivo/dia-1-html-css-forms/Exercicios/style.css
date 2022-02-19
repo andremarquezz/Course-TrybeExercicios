@@ -1,0 +1,20 @@
+* {
+  margin: 0%;
+  background-color: antiquewhite;
+}
+
+body {
+  text-align: center;
+
+}
+
+#input-name,
+#input-area {
+  margin: 5px;
+}
+
+textarea {
+  width: 771px;
+  height: 190px;
+  resize: none;
+}
