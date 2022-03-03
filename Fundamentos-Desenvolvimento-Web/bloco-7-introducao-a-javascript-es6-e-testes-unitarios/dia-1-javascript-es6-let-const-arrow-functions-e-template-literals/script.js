@@ -81,9 +81,38 @@ console.log(`${'Os numeros'} ${ordemCrescente} ${'se encontram em ordem crescent
 // Foi a forma que eu fiz no exercicio 1.
 
 // 1 - Crie uma função que receba um número e retorne seu fatorial.
-// http://devfuria.com.br/logica-de-programacao/recursividade-fatorial/
+// https://www.youtube.com/watch?v=Wr38_yypPdE&ab_channel=Leo-CoffeeTag
+// Number.isInteger Npara verdadeiro ou falso numero inteiro
+
+// Forma 1
+function fatorial(n) {
+  if (n === 0) {
+    return 1
+  } else {
+    return n * fatorial(n - 1);
+  }
+}
+
+// Forma 020
+
+const fatorial = (n) => (n > 1) ? n * fatorial(n - 1) : 1;
+
+fatorial(5)
+
 
 // 2 - Crie uma função que receba uma frase e retorne qual a maior palavra.
+
+// const frasePalavra = (frase) => {
+//   let maiorPalavra = frase.split(' ')
+//   for (let i = 0; i < maiorPalavra.length; i += 1) {
+//     if (maiorPalavra < #) {
+//       maiorPalavra = #;
+//     }
+//   }
+//   return maiorPalavra
+// }
+
+// console.log(frasePalavra('meu amigo cachorro'))
 
 /* 3 -Crie uma página que contenha:
 a) Um botão ao qual será associado um event listener;
