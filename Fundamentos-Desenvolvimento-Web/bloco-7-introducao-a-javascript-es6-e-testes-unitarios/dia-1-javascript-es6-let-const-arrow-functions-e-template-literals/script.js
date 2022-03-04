@@ -93,7 +93,7 @@ function fatorial(n) {
   }
 }
 
-// Forma 020
+// Forma 02
 
 const fatorial = (n) => (n > 1) ? n * fatorial(n - 1) : 1;
 
@@ -102,17 +102,9 @@ fatorial(5)
 
 // 2 - Crie uma função que receba uma frase e retorne qual a maior palavra.
 
-// const frasePalavra = (frase) => {
-//   let maiorPalavra = frase.split(' ')
-//   for (let i = 0; i < maiorPalavra.length; i += 1) {
-//     if (maiorPalavra < #) {
-//       maiorPalavra = #;
-//     }
-//   }
-//   return maiorPalavra
-// }
+const longestWord = text => text.split(' ').sort((wordA, wordB) => wordB.length - wordA.length)[0];
 
-// console.log(frasePalavra('meu amigo cachorro'))
+console.log(longestWord("Antonio foi no banheiro e não sabemos o que aconteceu"));
 
 /* 3 -Crie uma página que contenha:
 a) Um botão ao qual será associado um event listener;
