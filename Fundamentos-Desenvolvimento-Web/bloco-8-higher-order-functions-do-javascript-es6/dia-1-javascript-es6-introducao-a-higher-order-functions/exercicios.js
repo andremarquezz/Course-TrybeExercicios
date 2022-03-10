@@ -3,7 +3,6 @@
 const pessoaContratada = (nome) => {
   let nomeCompleto = nome.split(' ').join('_').toLowerCase();
   let email = `${nomeCompleto}@trybe.com`
-  console.log(nomeCompleto)
 }
 const newEmployees = () => {
   const employees = {
