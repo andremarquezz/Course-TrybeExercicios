@@ -85,7 +85,7 @@ const books = [{
 // Adicione o código do exercício aqui:
 // 2- 2 - Crie uma string com os nomes de todas as pessoas autoras.
 const autores = () => books.reduce((accumulator, currentValue) => accumulator.concat(currentValue.author.name), '');
-// console.log(autores())
+console.log(autores())
 
 // 3 - Calcule a média de idade que as pessoas autoras tinham quando seus respectivos livros foram lançados.
 
@@ -94,4 +94,4 @@ const idadeMedia = () => {
   return idadeTotal / books.length
 }
 
-console.log(idadeMedia())
+// console.log(idadeMedia())
