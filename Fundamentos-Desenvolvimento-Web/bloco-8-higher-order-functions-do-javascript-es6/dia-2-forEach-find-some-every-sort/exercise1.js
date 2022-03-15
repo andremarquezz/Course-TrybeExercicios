@@ -60,7 +60,7 @@ const books = [{
   },
 ];
 
-// Adicione o código do exercício aqui:
+//Adicione o código do exercício aqui:
 // 1- Encontre o nome da primeira pessoa autora do livro nascida no ano de 1947.
 
 function authorBornIn1947() {
@@ -95,7 +95,6 @@ function getNamedBook() {
 // console.log(getNamedBook());
 
 // 4- Ordene os livros por data de lançamento em ordem decrescente.
-
 const ordemDecrescente = books.sort((a, b) => b.releaseYear - a.releaseYear)
 
 // console.log(ordemDecrescente)
