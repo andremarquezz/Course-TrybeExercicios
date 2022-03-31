@@ -52,7 +52,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
+##### [Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-6-html-e-css-forms-flexbox-e-responsivo)
 
 - [X] 6-1: _HTML & CSS - Forms_
 - [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -61,14 +61,14 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 6-5: _CSS Responsivo - Mobile First_
 - [X] 6-6: _[Projeto - Trybewarts]()_
 
-##### Bloco 7: Introdução à JavaScript ES6 & Testes Unitários
+##### [Bloco 7: Introdução à JavaScript ES6 & Testes Unitários](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-7-introducao-a-javascript-es6-e-testes-unitarios)
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7-2: _JavaScript ES6 - Objects_
 - [X] 7-3: _Primeiros passos em Jest_
 - [X] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Bloco 8: Higher Order Functions do JavaScript ES6
+##### [Bloco 8: Higher Order Functions do JavaScript ES6](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-8-higher-order-functions-do-javascript-es6)
 
 - [X] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_
 - [X] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
@@ -77,7 +77,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [X] 8-6: _[Projeto - Zoo functions]()_
 
-##### Bloco 9: JavaScript e Testes Assíncronos
+##### [Bloco 9: JavaScript e Testes Assíncronos](https://github.com/andremarquezz/trybe-exercicios/tree/main/Fundamentos-Desenvolvimento-Web/bloco-9-javascript-e-testes-assincronos/dia-2-javascript-assincrono-fetch-api-e-asyncawait)
 
 - [X] 9-1: _JavaScript Assíncrono e Callbacks_
 - [X] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
@@ -86,7 +86,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 10: Introdução à React
+##### [Bloco 10: Introdução à React](https://github.com/andremarquezz/trybe-exercicios/tree/main/Desenvolvimento-Front-End/bloco-10-introducao-a-react)
 
 - [X] 10-1: _Introdução - Front-end_
 - [ ] 10-1: _Introdução - React_
