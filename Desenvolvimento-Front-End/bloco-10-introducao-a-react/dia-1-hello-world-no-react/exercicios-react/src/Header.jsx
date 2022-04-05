@@ -1,13 +1,9 @@
-import { Component } from "react"
+import { Component } from 'react';
 
-class Header extends Component{
+class Header extends Component {
   render() {
-    return (
-      <div>
-        <h1 className="tittle">Conteúdos de Front-End</h1>
-      </div>
-    )
+    return <h1 className="tittle">Conteúdos de Front-End</h1>;
   }
 }
 
-export default Header
+export default Header;

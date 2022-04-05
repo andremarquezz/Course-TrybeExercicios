@@ -11,12 +11,12 @@ const conteudos = [
     status: 'Aprendendo',
   },
   {
-    conteudo: 'Composicao de Estados',
+    conteúdo: 'Composicao de Estados',
     bloco: 12,
     status: 'Aprenderei'
   },
   {
-    conteudo: 'Redux',
+    conteúdo: 'Redux',
     bloco: 16,
     status: 'Aprenderei'
   },
