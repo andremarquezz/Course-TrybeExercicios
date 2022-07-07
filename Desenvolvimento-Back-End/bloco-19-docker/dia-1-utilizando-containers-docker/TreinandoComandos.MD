@@ -1,4 +1,4 @@
-docker container run --name exec_1 -it ubuntu:stable-slim
+docker container run --name exec_1 -it debian:stable-slim
 
 🚀 No terminal, você deve conseguir rodar o comando cat /etc/*-release, que vai retornar os dados da distribuição Debian que está sendo rodada dentro do container.
 
