@@ -1,0 +1,28 @@
+Utilizado banco de dados Pixar 
+
+
+SELECT m.title, bo.domestic_sales, bo.international_sales
+FROM box_office AS bo
+INNER JOIN movies AS m
+ON bo.movie_id = m.id;
+
+SELECT m.title, bo.domestic_sales, bo.international_sales
+FROM box_office AS bo
+INNER JOIN movies AS m
+ON bo.movie_id = m.id
+WHERE bo.international_sales > bo.domestic_sales;
+
+SELECT m.title, bo.rating
+FROM box_office AS bo
+INNER JOIN movies AS m
+ON bo.movie_id = m.id
+ORDER BY bo.rating DESC;
+
+SELECT t.name, t.location, m.title
+FROM theater AS t
+LEFT JOIN movies m ON t.id = m.theater_id
+ORDER BY t.name;
+
+SELECT * FROM movies
+
+

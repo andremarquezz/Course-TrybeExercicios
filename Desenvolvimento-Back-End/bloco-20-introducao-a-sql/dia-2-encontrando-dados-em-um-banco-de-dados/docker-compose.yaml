@@ -1,0 +1,14 @@
+version: '3'
+services:
+  dbMySQL:
+    container_name: ContainerExercises
+    image: mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+    ports:
+      - 3306:3306
+    volumes:
+      - db-exercises:/data/db
+volumes:
+  db-exercises:
+    name: db-exercises

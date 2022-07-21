@@ -1,0 +1,47 @@
+CREATE DATABASE IF NOT EXISTS normalization;
+
+CREATE TABLE IF NOT EXISTS sector(
+  sector_id INT PRIMARY KEY,
+  sector_name VARCHAR(50)
+);
+
+CREATE TABLE IF NOT EXISTS contact(
+  contact_id INT PRIMARY KEY,
+  contact_email VARCHAR(50),
+  contact_phone VARCHAR(50)
+);
+
+CREATE TABLE IF NOT EXISTS functionary(
+  functionary_id INT PRIMARY KEY,
+  first_name VARCHAR(50),
+  last_name VARCHAR(50),
+  contact_id INT,
+  sector_id INT,
+  registration_date DATE,
+  FOREIGN KEY (contact_id) REFERENCES contact(contact_id),
+  FOREIGN KEY (sector_id) REFERENCES sector(sector_id)
+);
+
+INSERT INTO sector (sector_id, sector_name) VALUES
+(1,'Administração de Vendas'),
+(2,'Operacional'),
+(3,'Estratégico, Vendas'),
+(4,'Marketing');
+
+INSERT INTO contact (contact_id, contact_email, contact_phone) VALUES
+(1,'jo@gmail.com', '(35)998552-1445'),
+(2,'andre1990@gmail.com', '(47)99522-4996'),
+(3,'cindy@outlook.com', '(33)99855-4669'),
+(4,'fernandamendes@yahoo.com', '(33)99200-1556');
+
+INSERT INTO functionary(functionary_id, first_name, last_name, contact_id, sector_id, registration_date) VALUES
+(1,'Joseph', 'Rodrigues', 1, 1, '2022-06-15'),
+(2,'André', 'Freeman', 2, 2, '2022-10-8'),
+(3,'Cíntia', 'Duval', 3, 3, '2022-7-8'),
+(4,'Fernanda', 'Mendes', 4, 1, '2022-4-1');
+
+SELECT CONCAT(f.first_name, ' ', f.last_name) AS nome, s.sector_name
+FROM functionary AS f
+INNER JOIN sector AS s
+ON f.sector_id = s.sector_id
+
