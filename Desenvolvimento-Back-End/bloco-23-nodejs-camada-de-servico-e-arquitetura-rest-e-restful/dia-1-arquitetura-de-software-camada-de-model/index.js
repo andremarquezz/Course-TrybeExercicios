@@ -6,8 +6,12 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/books', async (req, res) => {
-  const books = await Books.getAll();
-  res.status(200).json(books);
+  try {
+    const books = await Books.getAll();
+    return res.status(200).json(books);
+  } catch (error) {
+    console.log(error);
+  }
 });
 
 app.listen(PORT, () => {
