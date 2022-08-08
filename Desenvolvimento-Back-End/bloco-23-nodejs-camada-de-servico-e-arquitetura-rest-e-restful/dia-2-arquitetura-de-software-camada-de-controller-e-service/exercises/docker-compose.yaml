@@ -1,0 +1,30 @@
+version: '3'
+services:
+  mysql:
+    image: mysql:5.7
+    container_name: ContainerMySQL
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+    working_dir: /database
+    ports:
+      - 3306:3306
+    restart: unless-stopped
+  node:
+    build: ./
+    container_name: ContainerNode
+    working_dir: /app
+    # Mesmo que `docker run -t`
+    tty: true
+    # Mesmo que `docker run -i`
+    stdin_open: true
+    # Substitui o comando padrão da imagem do node
+    command: bash
+    ports:
+      - 3000:3000
+    volumes:
+     - ./:/app
+    # Restarta o container mas quando der stop manual não retorna
+    restart: unless-stopped
+networks:
+  default:
+    name: MySQLNode
