@@ -12,8 +12,8 @@ const verifyCEP = (cep) => {
 };
 
 const searchCEP = async (cep) => {
-  const validCEP = verifyCEP(cep);
-  if (validCEP.code) return validCEP;
+  const invalidCEP = verifyCEP(cep);
+  if (invalidCEP.code) return invalidCEP;
   const data = await CepModel.getOneCEP(cep);
   const response = { code: 200, data };
   return response;
