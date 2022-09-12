@@ -1,13 +1,15 @@
 const express = require('express');
-const ProductModel = require('../models/productModel');
+const ProductServices = require('../services/productServices');
 
 const router = express.Router();
 
-router.get('/list-products', async (req, res) => {
-  const products = await ProductModel.getAll();
-
-  res.send(products);
-});
+router.get(
+  '/list-products',
+  rescue(async (_req, res) => {
+    const products = await ProductServices.getAll();
+    res.status(products.code).json(products.data);
+  })
+);
 
 router.get('/get-by-id/:id', async (req, res) => {
   const product = await ProductModel.getById(req.params.id);
